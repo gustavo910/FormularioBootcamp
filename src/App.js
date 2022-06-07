@@ -4,8 +4,6 @@ import Tabs from "./Tabs/Tabs.jsx";
 function App() {
   return (
   <TelaCadastro/>
-  
-  //<Tabs/>
   );
 }
 
